@@ -1,0 +1,16 @@
+C:\Visual Programming\hometask7\hometask7\bin\Debug\net6.0-windows\hometask7.exe
+C:\Visual Programming\hometask7\hometask7\bin\Debug\net6.0-windows\hometask7.deps.json
+C:\Visual Programming\hometask7\hometask7\bin\Debug\net6.0-windows\hometask7.runtimeconfig.json
+C:\Visual Programming\hometask7\hometask7\bin\Debug\net6.0-windows\hometask7.dll
+C:\Visual Programming\hometask7\hometask7\bin\Debug\net6.0-windows\hometask7.pdb
+C:\Visual Programming\hometask7\hometask7\obj\Debug\net6.0-windows\hometask7.Form1.resources
+C:\Visual Programming\hometask7\hometask7\obj\Debug\net6.0-windows\hometask7.csproj.GenerateResource.cache
+C:\Visual Programming\hometask7\hometask7\obj\Debug\net6.0-windows\hometask7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Programming\hometask7\hometask7\obj\Debug\net6.0-windows\hometask7.AssemblyInfoInputs.cache
+C:\Visual Programming\hometask7\hometask7\obj\Debug\net6.0-windows\hometask7.AssemblyInfo.cs
+C:\Visual Programming\hometask7\hometask7\obj\Debug\net6.0-windows\hometask7.csproj.CoreCompileInputs.cache
+C:\Visual Programming\hometask7\hometask7\obj\Debug\net6.0-windows\hometask7.dll
+C:\Visual Programming\hometask7\hometask7\obj\Debug\net6.0-windows\refint\hometask7.dll
+C:\Visual Programming\hometask7\hometask7\obj\Debug\net6.0-windows\hometask7.pdb
+C:\Visual Programming\hometask7\hometask7\obj\Debug\net6.0-windows\hometask7.genruntimeconfig.cache
+C:\Visual Programming\hometask7\hometask7\obj\Debug\net6.0-windows\ref\hometask7.dll
